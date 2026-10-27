@@ -1,4 +1,4 @@
-# Day 2: Multi-File Data Processing Pipeline
+# Multi-File Data Processing Pipeline
 
 ## Project Overview
 
